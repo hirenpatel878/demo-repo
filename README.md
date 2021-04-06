@@ -1,4 +1,4 @@
 #demo       
 
 
-some plain text show in file.
+some plain text shown in this file.
